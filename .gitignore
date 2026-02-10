@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# History / editor files
+.history/
+
+# Virtual environments (optional but recommended)
+venv/
+env/
+.venv/
+
+# OS / IDE junk
+.DS_Store
+.vscode/
+.idea/
