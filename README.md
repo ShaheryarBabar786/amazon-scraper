@@ -9,13 +9,14 @@ A professional Python scraper for extracting product information from Amazon.
 - Handles currency conversion (PKR to USD)
 - Saves data to JSON format
 
-
-## TO RUN
- - In the terminal
-   
-python main.py
-
 ## Installation
 ```bash
 pip install -r requirements.txt
+```
+
+## TO RUN
+ - In the terminal
+```bash
+python main.py
+```
 
