@@ -12,3 +12,7 @@ A professional Python scraper for extracting product information from Amazon.
 ## Installation
 ```bash
 pip install -r requirements.txt
+
+## TO RUN
+-in the terminal
+python main.py
